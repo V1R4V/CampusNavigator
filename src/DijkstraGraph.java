@@ -1,11 +1,4 @@
 
-// === CS400 File Header Information ===
-// Name: Vibhrav Jha
-// Email: vjha3@wisc.edu
-// Group and Team: <your group name: two letters, and team color>P2.3819
-// Group TA: <name of your group's ta>
-// Lecturer: FLorian Heimerl
-// Notes to Grader: <optional extra notes>
 
 import java.util.PriorityQueue;
 import java.util.List;

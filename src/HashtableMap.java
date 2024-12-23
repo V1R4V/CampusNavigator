@@ -1,9 +1,4 @@
-// == CS400 Fall 2024 File Header Information ==
-// Name: Vibhrav Jha
-// Email: vjha3@wisc.edu
-// Group: P2.3819
-// Lecturer: Florian
-// Notes to Grader: N/A
+
 import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.NoSuchElementException;
