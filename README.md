@@ -32,6 +32,7 @@ This Java-based application generates interactive HTML elements to visualize sho
   - Error messages for invalid inputs or computations.
  
 ### 5. **Demo**
-<img width="481" alt="Screenshot 2024-12-23 at 11 42 13 AM" src="https://github.com/user-attachments/assets/c4388c2c-d0fc-4f26-93ab-40872583135a" />
-<img width="873" alt="Screenshot 2024-12-23 at 11 41 44 AM" src="https://github.com/user-attachments/assets/c54208b0-55d8-46cc-9ae8-ff6e282e03d6" />
+ <img width="481" alt="Screenshot 2024-12-23 at 11 42 13 AM" src="https://github.com/user-attachments/assets/26b1ba46-179d-471a-b296-22830128dff7" />
+<img width="873" alt="Screenshot 2024-12-23 at 11 41 44 AM" src="https://github.com/user-attachments/assets/05a83113-a47a-4c46-8d84-2d293590dc9a" />
+
 
