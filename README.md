@@ -1,7 +1,6 @@
 # Java-based Shortest Path Visualization Application
 
-This Java-based application generates interactive HTML elements to visualize shortest path computations and related operations, offering a user-friendly interface for interacting with a backend system that calculates shortest paths between locations using graph-based algorithms in Madison.
-
+This Java-based application is a powerful tool that dynamically generates interactive HTML elements, offering a sophisticated visualization of shortest path computations and other graph-based operations. It provides a seamless, user-friendly interface for users to engage with the backend, which leverages Dijkstra's algorithm to compute the shortest paths between locations within Madison. Through this robust system, users can easily explore and interact with complex algorithms, making data-driven decisions and gaining deeper insights into the efficiency of various pathfinding strategies.
 ## Features
 
 ### 1. **Shortest Path Prompt Generation**
