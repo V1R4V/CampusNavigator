@@ -81,3 +81,5 @@ The architecture of this application is designed to be modular, with clear separ
 - **Vibhrav**: Development and design of the app.
 - **Collaborators**: None
 
+  ![Alt](https://repobeats.axiom.co/api/embed/c929a0bb925e283851f55b834e4df11389ab7f00.svg "Repobeats analytics image")
+
